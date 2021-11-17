@@ -1,7 +1,7 @@
 # FiresNotes
 
 Hello Everyone,
-I am going to build a note-taking application and publish on google play store.
+I am going to build a note-taking application.
 
 The Features of This Android Note Taking Application is :
 
